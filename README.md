@@ -1,1 +1,3 @@
 # AndroidHelloWorld
+Kotlinによるアプリ開発講習会で用いたサンプルプログラム
+Hello World と表示するだけ
